@@ -9,6 +9,8 @@ This project involves verifying a credit card to be an:
 
 We shall be applying the Luhn's algorithm which helps us to determine whether a credit card number is syntactically valid or not.
 
+Programming Language Used: - C
+
 Output:
 
 
